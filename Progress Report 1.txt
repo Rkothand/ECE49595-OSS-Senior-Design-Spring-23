@@ -1,1 +1,3 @@
-We are currently working on improving the Dreamer MBRL Machine Learning Algorithm and bringing it up to date with more modern technologies
+We are currently working on improving the Dreamer MBRL Machine Learning Algorithm and bringing it up to date with more modern technologies. 
+The primary usage of the MBRL lib is to make the reinforcement learing easier by generating an environment a list of vectors and as a result all the calculations are run in a lighter environment to make all algorithms faster and more efficient.
+We are doing this in form of implementing the technologies gymnasium, hydra, and dm-control in the existling mbrl-lib. 

@@ -1,0 +1,3 @@
+For this project both of my teammates have been making commits and working on this repository for over a year, so i need to do a little catching up.
+I have learned some of the pre-fundamentals to AI in courses past and have learned some of the basics of tensorflow in the past. 
+As a result my teammates have started "onboarding" me on all the topics I need to have knowledge. These included Pytorch, Tensorflow, MBRL-lib, Gymnasium, and some other learning tools and reference materials.
