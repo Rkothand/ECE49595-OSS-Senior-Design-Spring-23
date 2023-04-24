@@ -1,1 +1,2 @@
-We have begun to package our Github Repository in working states to ensure that our deliverable is met. We also made sure that our
+Inline with this being the final progress report of the semester, 
+We have begun to package our Github Repository in working states to ensure that our deliverable is met.
