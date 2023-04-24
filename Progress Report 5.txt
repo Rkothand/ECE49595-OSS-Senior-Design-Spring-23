@@ -1,0 +1,3 @@
+Overall we have done a few things including deliverables over the course of the last few weeks. We have presented our midsemester review which was a good benchmark test of what we have done so far. 
+We have also gotten an additional commit into the main MBRL git repository for gymnasium migration. For migration we changed a multitude of files and a majority of the changes were changing the Gym functionality to a Gymnasium functionality. We also implemented new environments that could be passed through as additional paremeter for the model. Additionally we began implementing Hydra functionality in part alongside the Gymnasium edits by pulling data from Hydra to be used in this. 
+Lastly we added to the reward system in the model to improve some efficiency. 
